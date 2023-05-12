@@ -3,7 +3,7 @@ Playlist BakaryTV
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://github.com/bobbyBakary/Btv/blob/main/sbo_logo.jpg?dl=0" group-title="PLAYLIST TERBARU",INI GRATIS SOBAT
-https://drive.google.com/file/d/1neOL3oyiM7mn6DvFZlcYA4NCH1VJ_uJF/view?dl=0
+https://raw.githubusercontent.com/bobbyBakary/Btv/main/VID_20220526221756.mp4?dl=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
