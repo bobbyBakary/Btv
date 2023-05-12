@@ -2,8 +2,7 @@ Playlist BakaryTV
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://github.com/bobbyBakary/Btv/blob/main/sbo_logo.jpg?dl=0" group-title="PLAYLIST INI GRATIS SOBAT"
-https://photos.google.com/photo/AF1QipMe06BD9zhJqRz8_Tf9qdyCDPklt1aj0d2CaNuW?dl=0
+#EXTINF:-1 tvg-logo="https://github.com/bobbyBakary/Btv/blob/main/sbo_logo.jpg?dl=0" group-title="PLAYLIST INI GRATIS SOBAT",PLAYLIST NO DONASI https://raw.githubusercontent.com/bobbyBakary/Btv/main/Comp%201.mp4?dl=0
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
