@@ -1,7 +1,10 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bobbyBakary/Btv/main/dup_0x7f08011a-removebg-preview%20(2).png?dl=0" group-title="PLAYLIST TERBARU",INI GRATIS SOBAT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bobbyBakary/Btv/main/dup_0x7f08011a-removebg-preview%20(2).png?dl=0" group-title="PLAYLIST TERBARU",GFPR Bersyukur
 https://raw.githubusercontent.com/bobbyBakary/Btv/main/VID_20220526221756.mp4?dl=0
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bobbyBakary/Btv/main/dup_0x7f08011a-removebg-preview%20(2).png?dl=0" group-title="PLAYLIST TERBARU",INI GRATIS SOBAT
+https://raw.githubusercontent.com/bobbyBakary/Btv/main/gfpr.mp4?dl=0
 
 #Nasional
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Nasional",Metro TV
